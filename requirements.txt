@@ -1,0 +1,13 @@
+streamlit
+numpy==1.26.4
+torch
+torchvision
+facenet-pytorch
+opencv-python
+pandas
+Pillow
+scikit-learn
+twilio
+python-dotenv
+fastapi
+uvicorn

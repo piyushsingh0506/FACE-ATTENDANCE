@@ -1,0 +1,6 @@
+.env
+test/
+__pycache__/
+*.py[cod]
+*.db
+models/facenet_20180402_114759_vggface2.pth
